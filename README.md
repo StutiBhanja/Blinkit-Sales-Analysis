@@ -23,8 +23,10 @@ and locations.
 - Excel (Data Source)
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](Screenshot%202026-05-28%20203522.png)
-![Filtered View](Screenshot%202026-05-28%20203833.png)
-
+## 📷 Dashboard Preview
+![KPI Overview](kpi_overview.png)
+![Dashboard Overview](dashboard_overview.png)
+![Filtered View](dashboard_filter1.png)
+![Data Model](data_model.png)
 ## 📁 Dataset
 Data sourced from Kaggle - Blinkit Grocery Dataset
