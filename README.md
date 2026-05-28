@@ -27,5 +27,7 @@ and locations.
 ![Dashboard Overview](dashboard_overview.png)
 ![Filtered View](dashboard_filter1.png)
 ![Data Model](data_model.png)
+
 ## 📁 Dataset
-Data sourced from Kaggle - Blinkit Grocery Dataset
+
+[Download Dataset](Blinkit_Sales_Data.zip)
