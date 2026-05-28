@@ -23,7 +23,6 @@ and locations.
 - Excel (Data Source)
 
 ## 📷 Dashboard Preview
-## 📷 Dashboard Preview
 ![KPI Overview](kpi_overview.png)
 ![Dashboard Overview](dashboard_overview.png)
 ![Filtered View](dashboard_filter1.png)
